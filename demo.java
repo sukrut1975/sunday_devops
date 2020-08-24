@@ -11,6 +11,6 @@ public class Largest {
             System.out.println(n2 + " is the largest number.");
 
         else
-            System.out.println(n3 + " is the largest number.");
+            System.out.println(n4 + " is the largest number.");
     }
 }
